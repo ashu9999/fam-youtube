@@ -20,7 +20,7 @@ After successfully running the docker container, go to the app using these api e
 http://127.0.0.1:8000/api/v1/get-all-videos/  
 
 2. To search a particular video in the database using a search quer use this format :  
-http://127.0.0.1:8000/api/v1/search-videos/?search=Premier%20League  
+http://127.0.0.1:8000/api/v1/search-videos/?search=django%20begginers  
 
 http://127.0.0.1:8000/api/v1/search-videos/?search=<query>
   
